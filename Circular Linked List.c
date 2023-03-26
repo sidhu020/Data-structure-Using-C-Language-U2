@@ -141,3 +141,12 @@ printf("Invalid choice\n");
 } while (choice != 5);
 return 0;
 }
+
+//****************************************//
+//1. Add a node at the beginning of the list
+//2. Add a node at the end of the list
+//3. Display the list
+//4. Delete a node
+//5. Exit
+//Enter your choice: 
+//***************************************//
