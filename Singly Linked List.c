@@ -138,3 +138,15 @@ int main() {
 
 return 0;
 }
+
+
+//*****************************************//
+//1. Insert node at the beginning of the list
+//2. Insert node at the end of the list
+//3. Delete node at the beginning of the list
+//4. Delete node at the end of the list
+//5. Print the list
+//6. Quit
+//Enter your choice: 
+//*******************************************//
+
