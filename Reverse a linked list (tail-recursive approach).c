@@ -56,3 +56,9 @@ int main() {
     printList(head);
     return 0;
 }
+
+
+//*****************************************//
+
+//Original linked list: 4 3 2 1 
+//Reversed linked list: 1 2 3 4 
