@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 21. Program for Reverse a linked list (tail-recursive approach). 
+// 22. Program for Reverse a linked list (tail-recursive approach). 
 
 
 // Structure of a node in the linked list
